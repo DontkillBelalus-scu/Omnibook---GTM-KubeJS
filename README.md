@@ -11,3 +11,7 @@
 #### KubeJS？
 
 [KubeJS](https://www.mcmod.cn/class/2450.html)（或简称***KJS***）允许你使用JavaScript修改或添加内容。请注意1.18.2以上后的写法有所不同，如你是1.18.2+开发者，请勿使用旧写法**onEvent**。
+
+## 声明
+
+此指南长期更新，如有错误请联系我的邮箱：**dontkillbelalus1@163.com**。
